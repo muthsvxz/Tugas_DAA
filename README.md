@@ -7,6 +7,7 @@
 Program ini menggunakan algoritma greedy yang mencari jumlah koin seminimal mungkin untuk mencapai nilai target. Algoritma ini menggunakan cara sederhana untuk mencapai hasil yang optimal.
 
 ## Dokumentasi Video
+[Link Dokumentasi](https://drive.google.com/drive/folders/1XvlgnQA6ap6bsnlNDcq3CIQ9yy_7VolF?usp=sharing)
 
 ## Author
 | Nomor | Nama            | NIM       |
