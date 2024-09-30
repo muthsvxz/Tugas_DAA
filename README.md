@@ -1,3 +1,15 @@
-# GAME COIN CHANGE
-# Deskripsi Game
-Game Coin Change adalah permainan matematika yang bertujuan untuk menemukan kombinasi koin dengan nilai yang berbeda-beda agar jumlah total koin tersebut sesuai dengan nilai target yang diinputkan oleh pemain. Pemain harus memilih koin dengan denominasi yang tersedia untuk mencapai jumlah target dengan menggunakan jumlah koin yang seminimal mungkin. Permainan ini menguji kemampuan pemain dalam berpikir cepat dan strategis dengan memilih koin yang tepat, sekaligus memahami konsep dasar dari algoritma Greedy.
+# COIN CHANGE
+
+## Deskripsi Game
+**Program Coin Change** adalah suatu program matematika yang bertujuan untuk menemukan kombinasi koin dengan nilai yang berbeda-beda agar jumlah total koin tersebut sesuai dengan nilai target yang diinputkan oleh pemain. Pemain harus memilih koin dengan denominasi yang tersedia untuk mencapai jumlah target dengan menggunakan jumlah koin yang seminimal mungkin. Permainan ini menguji kemampuan pemain dalam berpikir cepat dan strategis dengan memilih koin yang tepat, sekaligus memahami konsep dasar dari algoritma Greedy.
+
+## Algoritma yang Digunakan
+Program ini menggunakan algoritma greedy yang mencari jumlah koin seminimal mungkin untuk mencapai nilai target. Algoritma ini menggunakan cara sederhana untuk mencapai hasil yang optimal.
+
+## Dokumentasi Video
+
+## Author
+| Nomor | Nama            | NIM       |
+|-------|-----------------|-----------|
+| 1     | Mutiara Hasanah | L0123102  |
+| 2     | Nayla Amira     | L0123108  |
